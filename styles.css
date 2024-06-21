@@ -6,3 +6,7 @@ h1{
 #foo{
     color: red;
 }
+
+.baz{
+    color: yellow;
+}
